@@ -624,6 +624,9 @@ section {
     text-align:right;
     
   }
+  .about .content p {
+    text-align: right;
+  }
 }
 .about .content ul li {
   padding-left: 28px;
