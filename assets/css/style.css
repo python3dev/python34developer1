@@ -620,7 +620,7 @@ section {
   text-align: center;
 }
 @media screen and (max-width:992px) {
-  about .content ul{
+  .about .content ul{
     text-align:right;
     
   }
