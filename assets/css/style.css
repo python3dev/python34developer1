@@ -613,14 +613,18 @@ section {
   font-weight: 600;
   font-size: 26px;
 }
-
 .about .content ul {
   list-style: none;
 
 
   text-align: center;
 }
-
+@media screen and (max-width:992px) {
+  about .content ul{
+    text-align:right;
+    
+  }
+}
 .about .content ul li {
   padding-left: 28px;
   
