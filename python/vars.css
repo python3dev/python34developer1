@@ -613,6 +613,17 @@ section {
   font-size: 24px;
   color:#37517e;
 }
+.noneps{
+  color:#37517e; direction: rtl; 
+  font-size: 24px;
+}
+.code{
+  background-color: #333;
+  color: white;
+  direction: rtl;
+  padding:20px 50px 20px 50px;
+  border-radius: 6px;
+}
 @media screen and (max-width: 992px) {
   .concept-declared{
     font-size: 16px;
