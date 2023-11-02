@@ -605,8 +605,8 @@ section {
   color:#37517e;
   /* animation: left-right 2s ease-in-out infinite alternate-reverse  ; */
   text-align: right;
+  direction: rtl;
   letter-spacing: 2px;
-  padding: 40px 20px 0px 0px
 }
 .typesshown{
   direction:rtl ;
@@ -615,6 +615,7 @@ section {
 }
 .noneps{
   color:#37517e; direction: rtl; 
+  margin-right: 24px;
   font-size: 24px;
 }
 .code{
@@ -642,7 +643,7 @@ section {
   }
   .noneps{
     font-size: 14px;
-    margin-right: 24px;
+    margin-right: 10px;
   }
   .code{
     padding: 8px 20px 8px 20px;
