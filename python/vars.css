@@ -639,6 +639,13 @@ section {
   .typesshown{
     font-size: 16px;
   }
+  .noneps{
+    font-size: 14px;
+  }
+  .code{
+    padding: 8px 20px 8px 20px;
+    
+  }
 }
 /*Contact Info !*/
 .contact .info {
