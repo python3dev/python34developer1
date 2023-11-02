@@ -641,6 +641,7 @@ section {
   }
   .noneps{
     font-size: 14px;
+    margin-right: 24px;
   }
   .code{
     padding: 8px 20px 8px 20px;
