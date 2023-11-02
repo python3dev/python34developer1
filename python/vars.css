@@ -635,6 +635,7 @@ section {
   }
   .types{
     font-size: 16px;
+    text-align: right;
   }
   .typesshown{
     font-size: 16px;
