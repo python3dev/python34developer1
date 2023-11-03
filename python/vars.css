@@ -592,7 +592,12 @@ section {
   
   text-align: center;
 }
-
+.note{
+  background-color: yellow;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
 /* @keyframes left-right{
   0%{
     transform: translateX(10px);
