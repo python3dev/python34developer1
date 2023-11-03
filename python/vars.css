@@ -661,6 +661,7 @@ section {
   }
   .note{
     text-align: right;
+    margin-right: 5px;
   }
 }
 /*Contact Info !*/
