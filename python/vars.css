@@ -627,11 +627,13 @@ section {
   font-size: 24px;
 }
 .code{
+  display: block;
   background-color: #333;
   color: white;
   direction: rtl;
   padding:20px 50px 20px 50px;
   border-radius: 6px;
+  width: 100%;
 }
 @media screen and (max-width: 992px) {
   .concept-declared{
