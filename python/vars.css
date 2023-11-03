@@ -593,14 +593,13 @@ section {
   text-align: center;
 }
 .note{
+  display: block;
   background-color: yellow;
-  padding: 20px;
+  width: 100%;
   text-align: center;
   border-radius: 10px;
 }
-.waring{
-  background-image: url('./info_icon.svg');
-}
+
 /* @keyframes left-right{
   0%{
     transform: translateX(10px);
@@ -658,6 +657,9 @@ section {
   .code{
     padding: 20px 20px 20px 20px;
     
+  }
+  .note{
+    text-align: right;
   }
 }
 /*Contact Info !*/
